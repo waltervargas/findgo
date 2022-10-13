@@ -1,1 +1,1 @@
-#findgo
+# findgo package
